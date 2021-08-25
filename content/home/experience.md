@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Student
+    company: EURECOM
+    company_url: 'https://www.eurecom.fr/en'
+    company_logo: 
+    location: Sophia Antipolis, France
+    date_start: '2019-07-01'
+    date_end: ''
+    description:
   - title: MATLAB Student Ambassador
     company: The MathWorks srl
     company_url: ''
