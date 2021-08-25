@@ -25,14 +25,14 @@ experience:
   - title: PhD Student
     company: EURECOM
     company_url: 'https://www.eurecom.fr/en'
-    company_logo: EURECOM_logo_quadri
+    company_logo: 
     location: Sophia Antipolis, France
     date_start: '2019-07-01'
     date_end: ''
     description:
   - title: MATLAB Student Ambassador
     company: The MathWorks srl
-    company_url: ''
+    company_url: 'https://www.mathworks.com/'
     company_logo: 
     location: Torino, Italy
     date_start: '2017-10-01'
@@ -46,7 +46,7 @@ experience:
         
   - title: Curriculum Internship
     company: VEM Solutions S.r.l.
-    company_url: ''
+    company_url: 'https://www.vemsolutions.it/'
     company_logo:
     location: Venaria Reale, Italy
     date_start: '2017-03-01'
