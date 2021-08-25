@@ -1,14 +1,14 @@
 .avatar {
-  width: 400px;
-  height: 600px;
+  width: 380px;
+  height: 570px;
   margin: 0 auto;
   object-fit: contain;
 }
 
 @include media-breakpoint-down(sm) {
   .wg-about .avatar {
-    width: 200px;
-    height: 300px;
+    width: 190px;
+    height: 285px;
     object-fit: contain;
   }
 }
