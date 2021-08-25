@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: ocean
+theme: earth
 day_night: false
-font: 'classic'
+font: ''
 font_size: L
 
 # SEO
