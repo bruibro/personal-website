@@ -22,28 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: MATLAB Student Ambassador
+    company: The MathWorks srl
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: 
+    location: Torino, Italy
+    date_start: '2017-10-01'
+    date_end: '2018-07-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * management of a community of students at the Politecnico di Torino through a Facebook group;
+        * organization of seminars/events about the MATLAB software and its toolboxes;
+        * organization of special events about the MATLAB role in image processing applications and in linear algebra field.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Curriculum Internship
+    company: VEM Solutions S.r.l.
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo:
+    location: Venaria Reale, Italy
+    date_start: '2017-03-01'
+    date_end: '2017-06-01'
+    description:
+        Responsibilities include:
+        
+        * analysis and interpretation of data from accelerometers;
+        * implementation of an instrument of data extraction and processing of binary files in C# with the Visual Studio environment;
+        * use of digital filters to make statistical analysis of the extracted data with the developed application.
+        
 
 design:
   columns: '2'
