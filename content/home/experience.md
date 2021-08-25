@@ -25,7 +25,7 @@ experience:
   - title: PhD Student
     company: EURECOM
     company_url: 'https://www.eurecom.fr/en'
-    company_logo: EURECOM_logo_quadri.eps
+    company_logo: EURECOM_logo_quadri
     location: Sophia Antipolis, France
     date_start: '2019-07-01'
     date_end: ''
