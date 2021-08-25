@@ -6,6 +6,8 @@ title: "On Code Design for Wireless Channels with Additive Radar Interference"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Daniela Tuninetti
+- Natasha Devroye
 
 # Author notes (optional)
 #author_notes:
@@ -25,8 +27,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2019 IEEE Information Theory Workshop (ITW)*
+publication_short: In *ITW*
 
 abstract: This paper considers the problem of code design for a channel where communications and radar systems coexist, modeled as having both Additive White Gaussian Noise (AWGN) and Additive Radar Interference (ARI). The question of how to adapt or re-design convolutional codes (decoded by the Viterbi algorithm) and LDPC codes (decoded by the sum-product algorithm and optimized by using the EXIT chart method) to effectively handle the overall non-Gaussian ARI noise is investigated. Interestingly, it is found that codes optimized for AWGN-only noise and decoded using a decoding metric that accounts for both the Signal-to-Noise Ratio (SNR) of the useful signal and the Interference-to-Noise Ratio (INR) of the radar signal is only slightly outperformed by codes that are optimized for the AWGN+ARI channel.
 
