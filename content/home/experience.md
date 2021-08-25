@@ -43,7 +43,7 @@ experience:
     location: Venaria Reale, Italy
     date_start: '2017-03-01'
     date_end: '2017-06-01'
-    description:
+    description: |2-
         Responsibilities include:
         
         * analysis and interpretation of data from accelerometers;
