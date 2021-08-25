@@ -29,7 +29,7 @@ education:
     institution: Sorbonne Université, France
     year: Present
   - course: Master in Data Science and Engineering
-    institution: Institute Mines Télécom and EURECOM, France
+    institution: Institute Mines-Télécom and EURECOM, France
     year: 2021
   - course: Master of Science in Electrical and Computer Engineering
     institution: University of illinois at Chicago, US
@@ -79,9 +79,14 @@ email: ""
 highlight_name: false
 ---
 
-Federico Brunero is a PhD student in the Communication Systems Department at EURECOM. He is currently enrolled in the Sorbonne Université EDITE doctoral school.
+I am a PhD student at the [Sorbonne Université](https://www.sorbonne-universite.fr/) and I am conducting my research in the Communication Systems Department at [EURECOM](https://www.eurecom.fr/) under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/~elia/).
 
-His research interests include information and communication theory, coding theory and machine learning, but he is interested also in digital communications, digital signal processing, image and video processing.
+Before joining EURECOM, I was part of the [TOP-UIC](https://didattica.polito.it/laurea_magistrale/ingegneria_civile/en/top_uic) double degree program, which allowed me to earn the Master of Science in Electrical and Computer Engineering from the [University of Illinois at Chicago (UIC)](https://www.uic.edu/) and the Master's Degree in Communications and Computer Networks Engineering from the [Politecnico di Torino](https://www.polito.it/). At UIC I completed my master's thesis under the supervision of [Daniela Tuninetti](https://nicest.lab.uic.edu/profiles/tuninetti-daniela/) and [Natasha Devroye](https://devroye.lab.uic.edu/).
 
-His skills include programming in different languages (e.g., Python, MATLAB, C). In addition, he is a passionate LaTeX user and, more generally, a digital typography enthusiast.
+During the PhD I further improved my knowledge of machine learning and data science, hence receiving also the Master of Science in Data Science and Engineering from [Institute Mines-Télécom](https://www.imt.fr/en/) and EURECOM.
+
+My research interests include information and communication theory, coding theory and machine learning, but I am also interested also in digital communications, digital signal processing, image and video processing.
+
+I am a passionate LaTeX user and, more generally, a digital typography enthusiast.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
