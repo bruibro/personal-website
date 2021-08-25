@@ -6,15 +6,15 @@ title: "On Code Design for Wireless Channels with Additive Radar Interference"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Daniela Tuninetti
-- Natasha Devroye
+- [Daniela Tuninetti](https://nicest.lab.uic.edu/profiles/tuninetti-daniela/)
+- [Natasha Devroye](https://devroye.lab.uic.edu/)
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-02-10T00:00:00Z"
 doi: "10.1109/ITW44776.2019.8989014"
 
 # Schedule page publish date (NOT publication's date).
