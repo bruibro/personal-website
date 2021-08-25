@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "10.1109/ITW44776.2019.8989014"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2019 IEEE Information Theory Workshop (ITW)*
-publication_short: In *ITW*
+publication_short: In *ITW 2019*
 
 abstract: This paper considers the problem of code design for a channel where communications and radar systems coexist, modeled as having both Additive White Gaussian Noise (AWGN) and Additive Radar Interference (ARI). The question of how to adapt or re-design convolutional codes (decoded by the Viterbi algorithm) and LDPC codes (decoded by the sum-product algorithm and optimized by using the EXIT chart method) to effectively handle the overall non-Gaussian ARI noise is investigated. Interestingly, it is found that codes optimized for AWGN-only noise and decoded using a decoding metric that accounts for both the Signal-to-Noise Ratio (SNR) of the useful signal and the Interference-to-Noise Ratio (INR) of the radar signal is only slightly outperformed by codes that are optimized for the AWGN+ARI channel.
 
@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/1904.05484.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -74,15 +74,5 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides:
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
