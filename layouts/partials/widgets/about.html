@@ -25,7 +25,7 @@
       {{ if site.Params.avatar.gravatar }}
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="{{$person_page.Title}}">
       {{ else if $avatar }}
-      {{ $avatar_image := $avatar }}
+      {{ $avatar_image := $avatar }} <!-- Avoid cropping or fitting, simply take as avatar_image the avatar picture, then deal with the CSS avatar class for fitting -->
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}">
       {{ end }}
 
