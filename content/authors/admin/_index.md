@@ -32,7 +32,7 @@ education:
     institution: Institute Mines-Télécom and EURECOM, France
     year: 2021
   - course: Master of Science in Electrical and Computer Engineering
-    institution: University of illinois at Chicago, US
+    institution: University of Illinois at Chicago, US
     year: 2019
   - course: Master's Degree in Communications and Computer Networks Engineering
     institution: Politecnico di Torino, Italy
