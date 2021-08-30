@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Student
+  - title: Research Assistant
     company: EURECOM
     company_url: 'https://www.eurecom.fr/en'
     company_logo: 
     location: Sophia Antipolis, France
     date_start: '2019-07-01'
     date_end: ''
-    description:
+    description: Research conducted under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/~elia/). The work was supported by the European Research Council (ERC) through the EU Horizon 2020 Research and Innovation Program under Grant 725939 (Project DUALITY).
   - title: MATLAB Student Ambassador
     company: The MathWorks srl
     company_url: 'https://www.mathworks.com/'
