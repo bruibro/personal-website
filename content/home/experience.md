@@ -29,7 +29,7 @@ experience:
     location: Sophia Antipolis, France
     date_start: '2019-07-01'
     date_end: ''
-    description: Research conducted under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/~elia/). The work was supported by the European Research Council (ERC) through the EU Horizon 2020 Research and Innovation Program under Grant 725939 (Project DUALITY).
+    description: Research conducted under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/~elia/). Work supported by the European Research Council (ERC) through the EU Horizon 2020 Research and Innovation Program under Grant 725939 (Project DUALITY).
   - title: MATLAB Student Ambassador
     company: The MathWorks srl
     company_url: 'https://www.mathworks.com/'
@@ -38,11 +38,9 @@ experience:
     date_start: '2017-10-01'
     date_end: '2018-07-01'
     description: |2-
-        Responsibilities include:
-        
-        * management of a community of students at the Politecnico di Torino through a Facebook group;
-        * organization of seminars/events about the MATLAB software and its toolboxes;
-        * organization of special events about the MATLAB role in image processing applications and in linear algebra field.
+        * Managed a community of students at the Politecnico di Torino through a Facebook group.
+        * Organized seminars/events about the MATLAB software and its toolboxes;
+        * Organized special events about the MATLAB role in image processing applications and in linear algebra field.
         
   - title: Curriculum Internship
     company: VEM Solutions S.r.l.
@@ -52,11 +50,9 @@ experience:
     date_start: '2017-03-01'
     date_end: '2017-06-01'
     description: |2-
-        Responsibilities include:
-        
-        * analysis and interpretation of data from accelerometers;
-        * implementation of an instrument of data extraction and processing of binary files in C# with the Visual Studio environment;
-        * use of digital filters to make statistical analysis of the extracted data with the developed application.
+        * Analyzed and interpreted data from accelerometers.
+        * Implemented an instrument of data extraction and processing of binary files in C# with the Visual Studio environment.
+        * Exploited digital filters to make statistical analysis of the extracted data with the developed application.
         
 
 design:
