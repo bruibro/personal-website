@@ -89,4 +89,4 @@ Currently my research interests include information and communication theory, co
 
 I am a passionate LaTeX user and, more generally, a digital typography enthusiast.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
