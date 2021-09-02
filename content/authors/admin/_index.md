@@ -81,11 +81,11 @@ highlight_name: false
 
 I am a PhD student at the [Sorbonne Université](https://www.sorbonne-universite.fr/) and I am conducting my research in the Communication Systems Department at [EURECOM](https://www.eurecom.fr/) under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/~elia/).
 
-In 2017 I received my Bachelor's Degree in Telecommunications Engineering from the [Politecnico di Torino](https://www.polito.it/). In 2019, thanks to the [TOP-UIC](https://didattica.polito.it/laurea_magistrale/ingegneria_civile/en/top_uic) double degree program, I received both the Master's Degree in Communications and Computer Networks Engineering from the Politecnico di Torino and the Master of Science in Electrical and Computer Engineering from the [University of Illinois at Chicago (UIC)](https://www.uic.edu/), where I completed my master's thesis under the supervision of [Daniela Tuninetti](https://nicest.lab.uic.edu/profiles/tuninetti-daniela/) and [Natasha Devroye](https://devroye.lab.uic.edu/).
+In 2017 I received my Bachelor's Degree in Telecommunications Engineering from the [Politecnico di Torino](https://www.polito.it/). In 2019, thanks to the [TOP-UIC](https://didattica.polito.it/laurea_magistrale/ingegneria_civile/en/top_uic) double degree program, I received both the Master's Degree in Communications and Computer Networks Engineering from the Politecnico di Torino and the Master of Science in Electrical and Computer Engineering from the [University of Illinois at Chicago (UIC)](https://www.uic.edu/), where I completed my master's thesis under the supervision of [Prof. Daniela Tuninetti](https://nicest.lab.uic.edu/profiles/tuninetti-daniela/) and [Prof. Natasha Devroye](https://devroye.lab.uic.edu/).
 
-During the PhD I decided to deepen my knowledge of machine learning and data science following the courses given by the [Data Science Department](https://ds.eurecom.fr/) at EURECOM. Hence, I received in 2021 the Master of Science in Data Science and Engineering co-accredited by [Institute Mines-Télécom (IMT)](https://www.imt.fr/en/).
+During the PhD I decided to deepen my knowledge of machine learning and data science following the courses given by the [Data Science Department](https://ds.eurecom.fr/) at EURECOM. Hence, I received in 2021 the Master of Science in Data Science and Engineering co-accredited by the [Institute Mines-Télécom (IMT)](https://www.imt.fr/en/).
 
-Currently my research interests include information and communication theory, coding theory and machine learning, but I am also interested also in digital communications, digital signal processing, image and video processing.
+Currently my research interests include information and communication theory, coding theory and machine learning, but I am also interested in digital communications, digital signal processing, image and video processing.
 
 I am a passionate LaTeX user and, more generally, a digital typography enthusiast.
 
