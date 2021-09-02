@@ -87,6 +87,4 @@ During the PhD I decided to deepen my knowledge of machine learning and data sci
 
 Currently my research interests include information and communication theory, coding theory and machine learning, but I am also interested in digital communications, digital signal processing, image and video processing.
 
-I am a passionate LaTeX user and, more generally, a digital typography enthusiast.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a passionate LaTeX user and a digital typography enthusiast. I play the piano and lately I am discovering trekking. I am probably among the few to follow the [Formula 1 Championship](https://www.formula1.com/).
