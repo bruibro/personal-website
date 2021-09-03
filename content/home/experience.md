@@ -29,7 +29,7 @@ experience:
     location: Sophia Antipolis, France
     date_start: '2019-07-01'
     date_end: ''
-    description: Research conducted under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/~elia/). Work supported by the European Research Council (ERC) through the EU Horizon 2020 Research and Innovation Program under Grant 725939 (Project DUALITY).
+    description: Research conducted under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/en/people/elia-petros). Work supported by the European Research Council (ERC) through the EU Horizon 2020 Research and Innovation Program under Grant 725939 (Project DUALITY).
   - title: MATLAB Student Ambassador
     company: The MathWorks srl
     company_url: 'https://www.mathworks.com/'
