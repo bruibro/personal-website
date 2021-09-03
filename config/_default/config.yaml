@@ -30,7 +30,7 @@ module:
 ############################
 
 # This is to make all relative URLs canonicalized using baseURL
-canonifyurls: true
+# canonifyurls: true
 
 enableGitInfo: false
 summaryLength: 30
