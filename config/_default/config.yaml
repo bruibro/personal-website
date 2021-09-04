@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Federico Brunero # Website name
-baseurl: 'https://federicobrunero95.com/' # Website URL
+baseurl: 'https://federicobrunero.com/' # Website URL
 copyright: '&copy; {year} Federico Brunero' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -28,9 +28,6 @@ module:
 ############################
 ## ADVANCED
 ############################
-
-# This is to make all relative URLs canonicalized using baseURL
-# canonifyurls: true
 
 enableGitInfo: false
 summaryLength: 30
