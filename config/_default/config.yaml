@@ -29,8 +29,6 @@ module:
 ## ADVANCED
 ############################
 
-canonifyurls: false
-
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
