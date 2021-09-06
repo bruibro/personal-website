@@ -28,7 +28,7 @@ education:
   - course: PhD in Computer Science, Telecommunications and Electronics
     institution: Sorbonne Université, France
     year: Present
-  - course: Master in Data Science and Engineering
+  - course: Master of Science in Data Science and Engineering
     institution: Institute Mines-Télécom and EURECOM, France
     year: 2021
   - course: Master of Science in Electrical and Computer Engineering
