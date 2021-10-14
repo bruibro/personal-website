@@ -14,7 +14,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-02-10T00:00:00Z"
+date: "2019-08-25T00:00:00Z"
 doi: "10.1109/ITW44776.2019.8989014"
 
 # Schedule page publish date (NOT publication's date).
