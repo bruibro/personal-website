@@ -1,6 +1,7 @@
 # Theme metadata
 name = "Dark Midnight Blue"
 
+# The theme is light
 light = true
 
 # Primary
@@ -14,4 +15,4 @@ menu_title = "#fff"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(117, 117, 117)"
+home_section_even = "rgb(247, 247, 247)"
