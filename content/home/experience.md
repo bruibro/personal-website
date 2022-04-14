@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
         * Research conducted under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/en/people/elia-petros) and supported by the European Research Council (ERC) through the EU Horizon 2020 Research and Innovation Program under Grant 725939 (Project DUALITY).
-        * Teaching assistant for the course Information Theory (2021).
+        * Teaching assistant for the course **Information Theory** (2021), for the semester project **6G Communications for Virtual Reality Networks** (2022).
   - title: MATLAB Student Ambassador
     company: The MathWorks srl
     company_url: 'https://www.mathworks.com/'
