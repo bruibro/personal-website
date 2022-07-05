@@ -26,8 +26,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *2022 IEEE International Symposium on Information Theory (ISIT)*
-publication_short: *2022 IEEE International Symposium on Information Theory (ISIT)*
+publication: Accepted in *2022 IEEE International Symposium on Information Theory (ISIT)*
+publication_short: Accepted in *2022 IEEE International Symposium on Information Theory (ISIT)*
 
 abstract: Recently, Muralidhar et al. proposed a novel multi-access system model where each user is connected to multiple caches in a manner that follows the well-known combinatorial topology of combination networks. For such multi-access topology, the same authors proposed an achievable scheme, which stands out for the unprecedented coding gains even with very modest cache resources. In this paper, we identify the fundamental limits of such multi-access setting with exceptional potential, providing an information-theoretic converse which establishes, together with the inner bound by Muralidhar et al., the exact optimal performance under uncoded prefetching.
 
