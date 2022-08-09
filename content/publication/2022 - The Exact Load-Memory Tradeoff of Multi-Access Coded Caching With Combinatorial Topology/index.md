@@ -13,8 +13,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-02-07T00:00:00Z"
-doi: ""
+date: "2022-08-03T00:00:00Z"
+doi: "10.1109/ISIT50566.2022.9834536"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -40,9 +40,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
- - name: DOI
-   url: 'https://doi.org/10.1109/ISIT50566.2022.9834536'
+# links:
+# - name: DOI
+#   url: 'https://doi.org/10.1109/ISIT50566.2022.9834536'
 
 url_pdf: 'https://arxiv.org/pdf/2202.03039.pdf'
 url_code: ''
