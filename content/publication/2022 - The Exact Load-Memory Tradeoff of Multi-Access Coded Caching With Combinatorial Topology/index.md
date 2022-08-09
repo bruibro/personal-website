@@ -41,8 +41,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+ - name: DOI
+   url: 'https://doi.org/10.1109/ISIT50566.2022.9834536'
 
 url_pdf: 'https://arxiv.org/pdf/2202.03039.pdf'
 url_code: ''
