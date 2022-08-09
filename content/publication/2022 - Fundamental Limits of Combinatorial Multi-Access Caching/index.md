@@ -14,7 +14,7 @@ authors:
 #- "Equal contribution"
 
 date: "2022-07-25T00:00:00Z"
-doi: ""
+doi: "10.1109/TIT.2022.3193723"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -40,9 +40,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
- - name: DOI
-   url: 'https://doi.org/10.1109/TIT.2022.3193723'
+# links:
+# - name: DOI
+#   url: 'https://doi.org/10.1109/TIT.2022.3193723'
 
 url_pdf: 'https://arxiv.org/pdf/2110.07426.pdf'
 url_code: ''
