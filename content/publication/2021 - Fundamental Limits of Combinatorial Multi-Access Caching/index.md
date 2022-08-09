@@ -26,8 +26,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *IEEE Transactions on Information Theory*
-publication_short: *IEEE Transactions on Information Theory*
+publication: IEEE Transactions on Information Theory
+publication_short: IEEE Transactions on Information Theory
 
 abstract: This work identifies the fundamental limits of Multi-Access Coded Caching (MACC) where each user is connected to multiple caches in a manner that follows a generalized combinatorial topology. This topology stands out as it allows for unprecedented coding gains, even with very modest cache resources. First, we extend the setting and the scheme presented by Muralidhar et al. to a much more general topology that supports both a much denser range of users and the coexistence of users connected to different numbers of caches, all while maintaining the astounding coding gains, here proven to be exactly optimal, associated with the combinatorial topology. This is achieved, for this generalized topology, with a novel information-theoretic converse that we present here, which establishes, together with the scheme, the exact optimal performance under the assumption of uncoded placement. We subsequently consider different connectivity ensembles, including the very general scenario of the entire ensemble of all possible network connectivities/topologies, where any user can be connected to any subset of caches arbitrarily. For these settings, we develop novel converse bounds on the optimal performance averaged over the ensemble's different connectivities, considering the additional realistic scenario that the connectivity at delivery time is entirely unknown during cache placement. This novel analysis of topological ensembles leaves open the possibility that currently-unknown topologies may yield even higher gains, a hypothesis that is part of the bigger question of which network topology yields the most caching gains.
 
