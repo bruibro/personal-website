@@ -40,7 +40,7 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
- links:
+links:
  - name: DOI
    url: 'https://doi.org/10.1109/ISIT50566.2022.9834646'
 
