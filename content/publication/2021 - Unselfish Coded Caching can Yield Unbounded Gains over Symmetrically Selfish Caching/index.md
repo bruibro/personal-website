@@ -1,5 +1,5 @@
 ---
-title: "Unselfish Coded Caching can Yield Unbounded Gains over Symmetrically Selfish Caching"
+title: "Unselfish Coded Caching Can Yield Unbounded Gains Over Selfish Caching"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,8 +26,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *IEEE Transactions on Information Theory*
-publication_short: Submitted to *IEEE Transactions on Information Theory*
+publication: IEEE Transactions on Information Theory
+publication_short: IEEE Transactions on Information Theory
 
 abstract: The original coded caching scenario assumes a content library that is of interest to all receiving users. In a realistic scenario though, the users may have diverging interests which may intersect to various degrees. What happens for example if each file is of potential interest to, say, $40 \\%$ of the users and each user has potential interest in $40 \\%$ of the library? In this work, we investigate the so-called *symmetrically selfish coded caching scenario*, where each user only makes requests from a subset of the library that defines its own *File Demand Set (FDS)*, each user caches selfishly only contents from its own FDS, and where the different FDSs symmetrically overlap to some extent. In the context of various traditional prefetching scenarios (prior to the emergence of coded caching), selfish approaches were known to be potentially very effective. On the other hand &#151 with the exception of some notable works &#151 little is known about selfish coded caching. We here present a new information-theoretic converse that proves, in a general setting of symmetric FDS structures, that selfish coded caching, despite enjoying a much larger local caching gain and a much smaller set of possible demands, introduces an unbounded load increase compared to the unselfish case. In particular, in the $K$-user broadcast channel where each user stores a fraction $\gamma$ of the library, where each file (class) is of interest to $\alpha$ users, and where any one specific file is of interest to a fraction $\delta$ of users, the optimal coding gain of symmetrically selfish caching is at least $(K - \alpha)\gamma + 1$ times smaller than in the unselfish scenario. This allows us to draw the powerful conclusion that the optimal selfish coding gain is upper bounded by $1/(1 - \delta)$, and thus does not scale with $K$. These derived limits are shown to be exact for different types of demands.
 
@@ -40,9 +40,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: DOI
+   url: 'https://doi.org/10.1109/TIT.2022.3195345'
 
 url_pdf: 'https://arxiv.org/pdf/2109.04807.pdf'
 url_code: ''
