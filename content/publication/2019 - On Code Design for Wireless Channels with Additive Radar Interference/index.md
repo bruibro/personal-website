@@ -27,8 +27,8 @@ doi: "10.1109/ITW44776.2019.8989014"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2019 IEEE Information Theory Workshop (ITW)*
-publication_short: In *ITW 2019*
+publication: 2019 IEEE Information Theory Workshop (ITW)
+publication_short: 2019 IEEE Information Theory Workshop (ITW)
 
 abstract: This paper considers the problem of code design for a channel where communications and radar systems coexist, modeled as having both Additive White Gaussian Noise (AWGN) and Additive Radar Interference (ARI). The question of how to adapt or re-design convolutional codes (decoded by the Viterbi algorithm) and LDPC codes (decoded by the sum-product algorithm and optimized by using the EXIT chart method) to effectively handle the overall non-Gaussian ARI noise is investigated. Interestingly, it is found that codes optimized for AWGN-only noise and decoded using a decoding metric that accounts for both the Signal-to-Noise Ratio (SNR) of the useful signal and the Interference-to-Noise Ratio (INR) of the radar signal is only slightly outperformed by codes that are optimized for the AWGN+ARI channel.
 
