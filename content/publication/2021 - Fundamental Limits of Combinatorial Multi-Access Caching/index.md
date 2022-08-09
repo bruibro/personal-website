@@ -40,9 +40,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
- links:
- - name: DOI
-   url: https://doi.org/10.1109/TIT.2022.3193723
+# links:
+# - name: DOI
+#   url: https://doi.org/10.1109/TIT.2022.3193723
 
 url_pdf: 'https://arxiv.org/pdf/2110.07426.pdf'
 url_code: ''
