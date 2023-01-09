@@ -41,8 +41,7 @@ experience:
     date_end: '2018-07-01'
     description: |2-
         * Managed a community of students at the Politecnico di Torino through a Facebook group.
-        * Organized seminars/events about the MATLAB software and its toolboxes;
-        * Organized special events about the MATLAB role in image processing applications and in linear algebra field.
+        * Organized seminars about the MATLAB software and its toolboxes with focus on image processing applications and linear algebra.
         
   - title: Curriculum Internship
     company: VEM Solutions S.r.l.
@@ -52,9 +51,8 @@ experience:
     date_start: '2017-03-01'
     date_end: '2017-06-01'
     description: |2-
-        * Analyzed and interpreted data from accelerometers.
-        * Implemented an instrument of data extraction and processing of binary files in C# with the Visual Studio environment.
-        * Exploited digital filters to make statistical analysis of the extracted data with the developed application.
+        * Analyzed and interpreted data from accelerometers. Data processing software developed in C#.
+        * Exploited digital filters to make statistical analysis of the data extracted with the developed software.
         
 
 design:
