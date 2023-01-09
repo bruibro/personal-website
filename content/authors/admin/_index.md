@@ -81,7 +81,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a recent PhD graduate at the [Sorbonne Université](https://www.sorbonne-universite.fr/). I conducted my research in the Communication Systems Department at [EURECOM](https://www.eurecom.fr/) under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/en/people/elia-petros). My PhD thesis focused on the combinatorial and information-theoreic aspects of caching and computing networks.
+I am a recent PhD graduate at the [Sorbonne Université](https://www.sorbonne-universite.fr/). I conducted my research in the Communication Systems Department at [EURECOM](https://www.eurecom.fr/) under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/en/people/elia-petros). My PhD thesis focused on the combinatorial and information-theoretic aspects of caching and computing networks.
 
 In 2017, I received my Bachelor's Degree in Telecommunications Engineering from the [Politecnico di Torino](https://www.polito.it/). In 2019, thanks to the [TOP-UIC](https://didattica.polito.it/laurea_magistrale/ingegneria_civile/en/top_uic) double degree program, I received both the Master's Degree in Communications and Computer Networks Engineering from the Politecnico di Torino and the Master of Science in Electrical and Computer Engineering from the [University of Illinois Chicago (UIC)](https://www.uic.edu/), where I completed my master's thesis under the supervision of [Prof. Daniela Tuninetti](https://nicest.lab.uic.edu/profiles/tuninetti-daniela/) and [Prof. Natasha Devroye](https://devroye.lab.uic.edu/).
 
