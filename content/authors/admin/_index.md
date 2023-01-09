@@ -6,7 +6,7 @@ title: Federico Brunero
 superuser: true
 
 # Role/position/tagline
-role: Telecommunications Engineer
+role: PhD Graduate in Communication Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
