@@ -5,6 +5,12 @@
   object-fit: contain;
 }
 
+.author-card .avatar {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+}
+
 @include media-breakpoint-down(sm) {
   .wg-about .avatar {
     width: 190px;
