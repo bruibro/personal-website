@@ -11,12 +11,12 @@
     {{ $profile_url = site.BaseURL }}
   {{ end }}
   {{ $avatar := ($author_page.Resources.ByType "image").GetMatch "*avatar*" }}
-  {{ $avatar_shape := site.Params.features.avatar.shape | default "square" }}
+  {{ $avatar_shape := site.Params.avatar.shape | default "circle" }} <!-- Corrected site.Params.features.avatar.shape to site.Params.avatar.shape for old site -->
   <div class="media author-card content-widget-hr">
     {{ if and site.Params.features.avatar.gravatar $author_page.Params.email }}
       {{if $profile_url}}<a href="{{$profile_url}}">{{end}}<img class="avatar mr-3 {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $author_page.Params.email }}?s=200" alt="{{$author_page.Title}}">{{if $profile_url}}</a>{{end}}
     {{ else if $avatar }}
-      {{ $avatar_image := $avatar }}
+      {{ $avatar_image := $avatar }} <!--  Avoid cropping or fitting, simply take as avatar_image the avatar picture, then deal with the CSS avatar class for fitting -->
       {{if $profile_url}}<a href="{{$profile_url}}">{{end}}<img class="avatar mr-3 {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$author_page.Title}}">{{if $profile_url}}</a>{{end}}
     {{ end }}
 
