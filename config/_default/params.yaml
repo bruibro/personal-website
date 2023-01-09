@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: federico.brunero@eurecom.fr
-phone: +33 (0)4 93 00 81 64
+email: federico.brunero@icloud.com
+phone: +33 (0)6 85 89 68 78
 address:
-  street: 450 Route des Chappes
-  city: Biot
+  street:
+  city:
   region: 
-  postcode: '06410'
-  country: France
-  country_code: FR
+  postcode:
+  country:
+  country_code:
 coordinates:
-  latitude: '43.614376'
-  longitude: '7.070450'
+  latitude:
+  longitude:
 directions: #Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   #- 'Monday 10:00 to 13:00'
