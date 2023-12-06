@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Optical Researcher
+    company: Huawei
+    company_url: 'https://www.huawei.com/en'
+    location: Munich, Germany
+    date_start: '2023-06-01'
+    date_end: ''
+    description: |2-
+        * Research in coherent optical communications with focus on low-power and low-complexity implementation of DSP algorithms.
+        * Development of simulation platforms in Python to test and validate PoCs.
   - title: Research Assistant
     company: EURECOM
     company_url: 'https://www.eurecom.fr/en'
