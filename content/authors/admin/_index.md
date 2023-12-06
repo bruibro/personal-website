@@ -6,11 +6,11 @@ title: Federico Brunero
 superuser: true
 
 # Role/position/tagline
-role: PhD Graduate in Communication Systems
+role: Senior Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-#- name: EURECOM
+- name: Huawei
 #  url: https://www.eurecom.fr/en
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,11 +18,11 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Wireless Communications
+- Optical Communications
+- Wireless Systems
 - Machine Learning
 - Information Theory
 - Coding Theory
-- Combinatorics
 
 # Education to show in About widget
 education:
@@ -81,12 +81,14 @@ email: ""
 highlight_name: false
 ---
 
-I am a fresh PhD graduate at the [Sorbonne Université](https://www.sorbonne-universite.fr/). I conducted my research in the Communication Systems Department at [EURECOM](https://www.eurecom.fr/) under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/en/people/elia-petros). My PhD thesis focused on the combinatorial and information-theoretic aspects of caching and computing networks.
+I am a Senior Research Engineer at the Huawei Research Center in Munich. My current research focuses on coherent optical communications, more specifically on the low-power and low-complexity implemention of DSP algorithms. 
+
+In 2022, I obtained my PhD in Computer Science, Telecommunications and Electronics from [Sorbonne Université](https://www.sorbonne-universite.fr/). During my doctoral studies, I conducted my research in the Communication Systems Department at [EURECOM](https://www.eurecom.fr/) under the supervision of [Prof. Petros Elia](https://www.eurecom.fr/en/people/elia-petros). My PhD thesis focused on the combinatorial and information-theoretic aspects of caching and computing networks.
 
 In 2017, I received my Bachelor's Degree in Telecommunications Engineering from the [Politecnico di Torino](https://www.polito.it/). In 2019, thanks to the [TOP-UIC](https://didattica.polito.it/laurea_magistrale/ingegneria_civile/en/top_uic) double degree program, I received both the Master's Degree in Communications and Computer Networks Engineering from the Politecnico di Torino and the Master of Science in Electrical and Computer Engineering from the [University of Illinois Chicago (UIC)](https://www.uic.edu/), where I completed my master's thesis under the supervision of [Prof. Daniela Tuninetti](https://nicest.lab.uic.edu/profiles/tuninetti-daniela/) and [Prof. Natasha Devroye](https://devroye.lab.uic.edu/).
 
 During the PhD I decided to deepen my knowledge of machine learning and data science following the courses given by the [Data Science Department](https://ds.eurecom.fr/) at EURECOM. Hence, I received in 2021 the Master of Science in Data Science and Engineering co-accredited by the [Institut Mines-Télécom (IMT)](https://www.imt.fr/en/).
 
-Currently, my research interests include wireless communications and machine learning in addition to information theory, coding theory and combinatorics.
+Currently, my research interests include digital signal processing, optical communications and wireless systems in addition to machine learning, information theory and coding theory.
 
-I am a passionate [LaTeX](https://en.wikipedia.org/wiki/LaTeX) user and a digital typography enthusiast. I play the piano and lately I am discovering trekking. I excitedly follow the [Formula 1 Championship](https://www.formula1.com/).
+I am a passionate [LaTeX](https://en.wikipedia.org/wiki/LaTeX) user and a digital typography enthusiast. I play the piano and I love trekking. I excitedly follow the [Formula 1 Championship](https://www.formula1.com/).
