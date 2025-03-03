@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-06-26T00:00:00Z"
+date: "2024-03-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,8 +26,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *IEEE Transactions on Information Theory*
-publication_short: Submitted to *IEEE Transactions on Information Theory*
+publication: IEEE Transactions on Information Theory
+publication_short: IEEE Transactions on Information Theory
 
 abstract: Coded distributed computing (CDC) is a new technique proposed with the purpose of decreasing the intense data exchange required for parallelizing distributed computing systems. Under the famous MapReduce paradigm, this coded approach has been shown to decrease this communication overhead by a factor that is linearly proportional to the overall computation load during the mapping phase. Nevertheless, it is widely accepted that this overhead remains a main bottleneck in distributed computing. To address this, we take a new approach and we explore a new system model which, for the same aforementioned overall computation load of the mapping phase, manages to provide astounding reductions of the communication overhead and, perhaps counterintuitively, a substantial increase of the computational parallelization. In particular, we propose multi-access distributed computing (MADC) as a novel generalization of the original CDC model, where now *mappers* (nodes in charge of the map functions) and *reducers* (nodes in charge of the reduce functions) are distinct computing nodes that are connected through a multi-access network topology. Focusing on the MADC setting with combinatorial topology, which implies $\Lambda$ mappers and $K$ reducers such that there is a unique reducer connected to any $\alpha$ mappers, we propose a novel coded scheme and a novel information-theoretic converse, which jointly identify the optimal inter-reducer communication load, as a function of the computation load, to within a constant gap of $1.5$. Additionally, a modified coded scheme and converse identify the optimal max-link communication load across all existing links to within a gap of $4$. The unparalleled coding gains reported here should not be simply credited to having access to more mapped data, but rather to the powerful role of topology in effectively aligning mapping outputs. This realization raises the open question of which multi-access network topology guarantees the best possible performance in distributed computing.
 
